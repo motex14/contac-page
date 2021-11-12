@@ -1,0 +1,16 @@
+.main{
+     display: flex;
+     
+}
+.input-field{
+     margin-left: 60px;
+     margin-top: 100px;
+     padding: 10px;
+
+}
+button{
+     border-radius: 5px;
+     background-color: blueviolet;
+     width: 100px;
+     color: cornsilk;
+}
